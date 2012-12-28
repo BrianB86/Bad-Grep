@@ -1,0 +1,66 @@
+<List> a
+test/baa.txt 1 test/boo.txt 1 
+</List>
+<List> all
+test/caa.txt 1 
+</List>
+<List> another
+test/ridiculous/chickens.txt~ 1 test/ridiculous/chickens.txt 1 test/chickens.txt 1 
+</List>
+<List> baa
+test/baa.txt 1 
+</List>
+<List> banshee
+test/caa.txt 1 
+</List>
+<List> boo
+test/boo.txt 1 
+</List>
+<List> cat
+test/baa.txt 1 
+</List>
+<List> caw
+test/caa.txt 5 
+</List>
+<List> collo
+test/caa.txt 1 
+</List>
+<List> dishwasher
+test/ridiculous/lol.txt 1 
+</List>
+<List> dog
+test/boo.txt 1 
+</List>
+<List> god
+test/ridiculous/chickens.txt~ 1 test/ridiculous/chickens.txt 1 test/chickens.txt 1 
+</List>
+<List> in
+test/caa.txt 1 
+</List>
+<List> league
+test/ridiculous/lol.txt 2 
+</List>
+<List> lol
+test/ridiculous/chickens.txt 2 test/ridiculous/chickens.txt~ 1 test/chickens.txt 1 
+</List>
+<List> name
+test/boo.txt 2 test/baa.txt 1 
+</List>
+<List> of
+test/ridiculous/lol.txt 2 
+</List>
+<List> rofl
+test/ridiculous/lol.txt 1 test/ridiculous/chickens.txt 1 test/ridiculous/chickens.txt~ 1 test/chickens.txt 1 
+</List>
+<List> scrubs
+test/ridiculous/lol.txt 1 
+</List>
+<List> test
+test/ridiculous/chickens.txt~ 1 test/ridiculous/chickens.txt 1 test/chickens.txt 1 
+</List>
+<List> tier
+test/ridiculous/chickens.txt~ 1 test/ridiculous/chickens.txt 1 test/chickens.txt 1 
+</List>
+<List> xcccccc
+test/caa.txt 1 
+</List>
